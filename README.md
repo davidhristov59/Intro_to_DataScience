@@ -1,1 +1,1 @@
-# Intro_to_DataScience
+# Intro-to-DataScience
